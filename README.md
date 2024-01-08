@@ -1,16 +1,11 @@
-# bmi01_1120918
+# NbitConverter
 
-A new Flutter project.
+# 這是三個人一組的期末作業
+C110152340 郭哲瑋
+C110152339 施承逸
+C110152344 姜冠辰
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+這個程式的功能有以下幾點
+- 將任意進制轉換成任意進制
+- ex:1111(2) => 15(10)
