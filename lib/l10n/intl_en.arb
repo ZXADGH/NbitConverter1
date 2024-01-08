@@ -1,0 +1,13 @@
+{
+  "title": "N-Bit Converter",
+  "base1": "Please input your bsae(2~36)",
+  "converBase1": "Please input your ConverBase(2~36)",
+  "error_text": "Cannot be empty",
+  "button1": "Confirm",
+  "result1": "Conversion completed",
+  "status00": "Your body status is ",
+  "status01": "(Base)",
+  "status02": "(Base)",
+  "status03": "(Base)",
+  "convernum1": "Please input your Text",
+}

@@ -1,0 +1,13 @@
+{
+  "title": "N-Bit 轉換器",
+  "base1": "請輸入基底(2~36)",
+  "converBase1": "請輸入轉換基底(2~36)",
+  "error_text": "不得為空",
+  "button1": "計算",
+  "result1": "轉換完成",
+  "status00": "您的狀態為：",
+  "status01": "(Base)",
+  "status02": "(Base)",
+  "status03": "(Base)",
+  "convernum1": "請輸入文字",
+}
